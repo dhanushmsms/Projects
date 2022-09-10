@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    font-family: Arial, "Helvetica Neue"
+    Helvetica, sans-serif;
+    font-size: 17px;
+    color:brown;
+    line-height:1.6;
+} 
+#showcase
+backgrounf-image:url(); 
+background-size:cover;
+background-postion:centre;
+display:flex
+flex-direction:column;
+justify-content:centre;
+align-items:centre;
+ 
